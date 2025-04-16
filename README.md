@@ -1,2 +1,2 @@
-# Employee-Outpass-Management-Systemyst
+# Employee-Outpass-Management-System
 Serverless Project
